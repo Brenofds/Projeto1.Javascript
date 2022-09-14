@@ -1,14 +1,14 @@
 "use strict"
 
-var sinal= "+"
-
-
-
 var n1 = 3
 
 var n2 = 2
 
-var s
+function soma(n1, n2){
 
-s= n1 sinal n2
+    return(n1 + n2)
+}
+
+soma(3, 5)
+
 
